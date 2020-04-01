@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#707070</color>
+    <color name="colorAccent">#FFD28C</color>
+
+    <color name="positif">#FFD28C</color>
+    <color name="sembuh">#C5FF8C</color>
+    <color name="meninggal">#FFF78C</color>
+</resources>
